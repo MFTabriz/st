@@ -1,3 +1,8 @@
+ATT: This is a fork of st ver. 0.8.2 with the following modifications/patches:
+* Larger fonts (monospace 18px)
+* Solarized color schemes (Default: Dark, switch with F6)
+* Scrollback patches (Shift+Pg Up/Dwn / Shift+Mouse scroll)
+
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
